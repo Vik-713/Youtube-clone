@@ -3,3 +3,31 @@
     padding: 0;
     box-sizing: border-box;
 }
+.maincontainer{
+    border: 2px solid green;
+
+}
+
+.navbarcontainer{
+    border: 2px solid red;
+
+}
+
+.leftnavbarcontainer,
+.middlenavbarcontainer,
+.rightnavbarcontainer{
+    border: 2px solid blue;
+
+}
+
+.maincontentcontainer{
+    border: 2px solid black;
+}
+
+.sidebarcontainer{
+    border: 2px solid green;
+}
+
+.videomaincontainer{
+    border: 2px solid cyan;
+}
